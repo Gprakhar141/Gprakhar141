@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gprakhar141**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W1uey1dnlgzWWa3iITIcedOUxhEwGPIq/view?usp=sharing](https://drive.google.com/file/d/1W1uey1dnlgzWWa3iITIcedOUxhEwGPIq/view?usp=sharing)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1W1uey1dnlgzWWa3iITIcedOUxhEwGPIq/view?usp=sharing](https://drive.google.com/file/d/1sflcos3H2CdLzjnxUOBJ_hhUX0RtyTpE/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
