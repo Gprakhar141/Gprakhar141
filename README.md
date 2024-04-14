@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FoodyWiz](https://github.com/Gprakhar141/Foodywiz)
 
-- 🌱 I’m currently learning **React.js and TailWindCSS**
+- 🌱 I’m currently learning **React.js and Data Structures and Algorithms**
 
 - 💬 Ask me about **react , node and mongoDB**
 
