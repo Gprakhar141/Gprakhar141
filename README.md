@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react , node and mongoDB**
 
-- 📫 How to reach me **gprakhar141**
+- 📫 How to reach me **gprakhar141@gmail.com**
 
 - 📄 Know about my experiences ([https://drive.google.com/file/d/1nnOd4RBVdjztpBzm0pV0_YZpkBNLfrZB/view?usp=sharing](https://drive.google.com/file/d/1nnOd4RBVdjztpBzm0pV0_YZpkBNLfrZB/view?usp=sharing))
 
