@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on [FoodyWiz](https://github.com/Gprakhar141/Foodywiz)
+- 🔭 I’m currently working on [Postinger](https://github.com/Gprakhar141/Postinger)
 
 - 🌱 I’m currently learning **React.js and Data Structures and Algorithms**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gprakhar141**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1W1uey1dnlgzWWa3iITIcedOUxhEwGPIq/view?usp=sharing](https://drive.google.com/file/d/1sflcos3H2CdLzjnxUOBJ_hhUX0RtyTpE/view?usp=sharing))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1nnOd4RBVdjztpBzm0pV0_YZpkBNLfrZB/view?usp=sharing](https://drive.google.com/file/d/1nnOd4RBVdjztpBzm0pV0_YZpkBNLfrZB/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
