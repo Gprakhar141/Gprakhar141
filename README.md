@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gprakhar141@gmail.com**
 
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1Y7f7-z0LtHTW-Ds2Nv1S9hXiZaLfa8Jf/view?usp=sharing](https://drive.google.com/file/d/1Y7f7-z0LtHTW-Ds2Nv1S9hXiZaLfa8Jf/view?usp=sharing))
+- 📄 Know about my experiences ([My Resume](https://drive.google.com/file/d/1Y7f7-z0LtHTW-Ds2Nv1S9hXiZaLfa8Jf/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
