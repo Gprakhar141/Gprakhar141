@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on [Postinger](https://github.com/Gprakhar141/Postinger)
+- 🔭 I’m currently working on [HelperHand](https://github.com/Gprakhar141/HelperHand)
 
 - 🌱 I’m currently learning **React.js and Data Structures and Algorithms**
 
