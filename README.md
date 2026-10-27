@@ -2,18 +2,10 @@
 <h3 align="center">🚀 A Passionate Full Stack (MERN) Developer & Problem Solver from India</h3>
 
 ---
-
-- 🔭 I recently completed my **Software Development Engineering Internship at Bank of New York (BNY)**  
-  where I developed Angular dashboards, REST APIs with Spring Boot, and wrote **90–95% test coverage** with Karma & JUnit.
-
-- 🌱 I’m currently enhancing my expertise in **React.js, TypeScript, and Scalable Web Architectures**.
-
-- 💻 I love building **end-to-end products** — from backend logic to responsive frontends — using the **MERN stack**.
-
-- 🧩 I’m also passionate about **Data Structures and Algorithms**, consistently improving through competitive programming.
+- 🧩 I’m passionate about **Data Structures and Algorithms**, consistently improving through competitive programming.
 
 - 📈 Coding Profiles:  
-  - 🏅 **Knight on Leetcode** – Rating: 1785  
+  - 🏅 **Leetcode** – Rating: 1785  
   - 🧠 **Specialist on Codeforces** – Rating: 1454  
   - 🥇 Global Rank **624** (Leetcode Contest 460) | **5** (CodeChef Starters 130)
 
