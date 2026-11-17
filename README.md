@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Gupta</h1>
-<h3 align="center">🚀 A Passionate Full Stack (MERN) Developer & Problem Solver from India</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer & Problem Solver from India</h3>
 
 ---
 - 🧩 I’m passionate about **Data Structures and Algorithms**, consistently improving through competitive programming.
