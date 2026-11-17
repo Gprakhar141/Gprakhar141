@@ -41,14 +41,4 @@
 
 ---
 
-<h3 align="left">🚀 Featured Projects:</h3>
-
-- 💬 [**HelperHand**](https://github.com/Gprakhar141/HelperHand) – Real-time doubt resolution app using MERN + Socket.io.  
-  🔹 Real-time chat, image upload (Cloudinary), and JWT authentication.
-
-- 🍴 [**FoodyWiz**](https://github.com/Gprakhar141/FoodyWiz) – Food ordering app built with MERN stack.  
-  🔹 User login/signup, search, cart & checkout functionality.
-
----
-
 <h3 align="center">🌟 “Building clean code, scalable systems, and meaningful user experiences.”</h3>
